@@ -1,1 +1,2 @@
 # odin-recipes
+I will be creating a basic HTML recipe website. It will consist of only one index/main page that has links to other recipe webpages. I will be using some new skills I learned including images, ordered and unordered lists, and basic font tricks in paragraphs/headers. 
